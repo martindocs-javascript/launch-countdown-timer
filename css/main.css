@@ -225,7 +225,7 @@ h2{
     filter: brightness(0) saturate(100%) invert(47%) sepia(78%) saturate(747%) hue-rotate(305deg) brightness(102%) contrast(97%);
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; color: #fff; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
