@@ -1,14 +1,11 @@
 # Launch Countdown Timer, Solution
 
-This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-/hub/launch-countdown-timer-B1CJKq14c).
+Immerse yourself in a dynamic countdown timer designed to elevate your anticipation. 
 
 ## Features
 - See hover states for all interactive elements on the page
 - See a live countdown timer that ticks down every second
 - **Bonus**: When a number changes, make the card flip from the middle
-
-
-
 
 ## Installation
 
@@ -23,8 +20,8 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 ```
 
 ## Screenshot
-![Main Page](./img/launch-countdown-timer-01.png)
-![Flip Card](./img/launch-countdown-timer-02.png)
+![Main Page](./assets/img/launch-countdown-timer-01.png)
+![Flip Card](./assets/img/launch-countdown-timer-02.png)
 
 ## Contributing
 
@@ -35,6 +32,10 @@ Pull requests are much appreciated and accepted.
 3. <a href='https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository'>**Commit**</a> changes to <a href='https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell'>**development branch**</a>.
 4. <a href='https://help.github.com/articles/pushing-to-a-remote/'>**Push**</a> your work back up to your fork.
 5. Submit a <a href='https://help.github.com/articles/about-pull-requests/'>**Pull request**</a> so that i can review your changes
+
+## Credits
+
+This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-/hub/launch-countdown-timer-B1CJKq14c).
 
 ## License
 
